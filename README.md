@@ -156,9 +156,6 @@ Contributions are welcome! If you would like to add new questions, clarify exist
 3. Commit your changes with a clear and concise message.
 4. Open a pull request, and describe the modifications you have made.
 
-## License
-
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the content, but please provide appropriate attribution.
 
 ---
 
